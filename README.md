@@ -15,7 +15,11 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Sales Performance Overview
 
+
 **By Time Period**
+![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/3ba6da25-616d-4d90-8792-b16b3fa803f1) 
+
+![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/46a0dea5-2de8-4f7c-8176-480580ab29f1)
 
 
 **By Product Mix**
