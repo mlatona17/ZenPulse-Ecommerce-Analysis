@@ -23,21 +23,27 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 **By Product Mix**
 
+(mike - pivot table)
+
 **By Region**
 
+(mike - pivot table)
 
 ### Loyalty Program
 
+(mike - sql))
 
 ### Refund Rates
 
+(mike - sql)
 
 ### Operational Efficiencies
 
+(mike - sql)
 
 ### Marketing Channel Performance
 
-
+(mike - sql)
 
 
 
