@@ -39,9 +39,13 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Operational Efficiencies
 
-(mike - sql)
+(mike - sql) (days to deliver)
 
 ### Marketing Channel Performance
+
+(mike - pivot)
+
+### Purchasing Platform
 
 (mike - sql)
 
