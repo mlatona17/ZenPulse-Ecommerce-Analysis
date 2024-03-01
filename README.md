@@ -16,22 +16,27 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 ### Sales Performance Overview
 
 
-**By Time Period** (Mike - including seasonality + growth rates)
+**By Time Period**
 ![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/3ba6da25-616d-4d90-8792-b16b3fa803f1) 
 
 ![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/46a0dea5-2de8-4f7c-8176-480580ab29f1)
 
 **By Product Mix**
+![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/4a9b73dd-e133-4dfb-8f08-e132fed002ae)
 
-(mike - pivot table)
+
+- The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for 97% of total sales.
+- Apple products accounted for 50% of total sales.
 
 **By Region**
+![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/086f830e-2711-4377-9bdb-bac426affec0)
 
-(mike - pivot table)
+![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/b0649b83-f17d-41ba-9a48-c1fd5d605492)
+
 
 ### Loyalty Program
 
-(mike - sql))
+(mike - sql)
 
 ### Refund Rates
 
