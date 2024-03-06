@@ -44,7 +44,7 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Operational Efficiencies
 
-(mike - sql) (days to deliver)
+The average time to deliver for products were 7.5 days from purchase to delivery.
 
 ### Marketing Channel Performance
 
