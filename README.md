@@ -44,7 +44,9 @@ While the ThinkPad Laptop has the highest refund rate with a nearly 12% rate of 
 
 ### Operational Efficiencies
 
-The average time to deliver for products were 7.5 days from purchase to delivery.
+**Time to Deliver:** The average overall time to deliver, as defined as the amount of time an order took from purchase to delivery, was 7.5 days. This was uniform across all regions.
+
+**Time to Ship:** The average time to ship, as defined as the amount of time an order took to ship from purchase, was relatively similiar across the product line with the Bose Headphones shipping out the fastest at 1.78 days and the Samsung Cable Pack at 2.07 days.
 
 ### Marketing Channel Performance
 
