@@ -40,7 +40,7 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Refund Rates
 
-(mike - sql)
+While the ThinkPad Laptop has the highest refund rate with a nearly 12% rate of return, the product that was refunded the most was the Apple Airpods being returned over 2600 times. The Macbook Air was a close second in refund rate at 11.5% and Gaming Monitor second in total refunds at ~1450 returns.
 
 ### Operational Efficiencies
 
