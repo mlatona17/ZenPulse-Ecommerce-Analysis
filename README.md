@@ -31,7 +31,7 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 **By Region**
 ![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/086f830e-2711-4377-9bdb-bac426affec0)
 
-![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/b0649b83-f17d-41ba-9a48-c1fd5d605492)
+Apple Airpods were the most popular product sold within each region. Amongst all regions North America sold the most Airpods over the 4 year timespan with nearly 19k units. EMEA was next in line with over 11k sold.
 
 
 ### Loyalty Program
