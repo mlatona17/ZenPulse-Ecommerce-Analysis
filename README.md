@@ -31,7 +31,7 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 **By Region**
 ![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/086f830e-2711-4377-9bdb-bac426affec0)
 
-Apple Airpods were the most popular product sold within each region. Amongst all regions North America sold the most Airpods over the 4 year timespan with nearly 19k units. EMEA was next in line with over 11k sold.
+**Product Performance by Region:** Apple Airpods were the most popular product sold within each region. Amongst all regions North America sold the most Airpods over the 4 year timespan with nearly 19k units. EMEA was next in line with over 11k sold.
 
 
 ### Loyalty Program
@@ -48,7 +48,7 @@ The average time to deliver for products were 7.5 days from purchase to delivery
 
 ### Marketing Channel Performance
 
-(mike - pivot)
+Amongst all marketing channels ones listed with Unknown had the highest loyalty signup rate with 78% of those customers opting in. Email came in tied for second with a 59% rate while records with blanks under marketing channel also at 59%. However it's important to note that the marketing channel with the highest overall number of loyalty program signups was Direct with over 23k participants which accounts for ~70% of all participants across the board.
 
 ### Purchasing Platform
 
