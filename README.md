@@ -1,4 +1,4 @@
-# ZenPulse-eCommerce-Analysis
+# ZenPulse-Ecommerce-Analysis
 
 Electronic Express, established in 1983, is an e-Commerce platform known for selling top quality consumer electronics at exceptionally low prices.  
 
