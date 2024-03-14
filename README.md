@@ -1,6 +1,6 @@
 # ZenPulse-Ecommerce-Analysis
 
-Electronic Express, established in 1983, is an e-Commerce platform known for selling top quality consumer electronics at exceptionally low prices.  
+ZenPulse, established in 1983, is an e-Commerce platform known for selling top quality consumer electronics at exceptionally low prices.  
 
 ## Dataset Structure & Initial Checks
 
@@ -36,7 +36,7 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Loyalty Program
 
-(mike - sql)
+The average time to deliver was the same for both loyalty and non-loyalty members possibly indicating potential for improvement for the company.
 
 ### Refund Rates
 
