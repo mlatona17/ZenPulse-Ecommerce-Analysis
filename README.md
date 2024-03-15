@@ -16,18 +16,25 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 ### Sales Performance Overview
 
 **By Time Period**
+![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/86f1c938-2f4c-45aa-9743-e83a1e287be8)
+![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/f9847f90-b401-4c3f-970b-1afb5f82e570)
+
 
 - Between 2019 and 2022 total sales were $28M which consister of 108k orders and an average order value of $260 per order.
 - 2020 saw a 163% jump in sales and doubling in total orders compared to prior year. In particular Q2 of that year saw a 53% spike in sales and 50% increase in total orders from Q1 which can likely be attributed to increased spending during lockdowns from the pandemic.
 - The largest dropoff in sales YoY came in 2022 where the company saw a $4.2M decrease (-46%) in total sales.
 - Across all 4 years the average order value increased in Q3 and Q4 which can be explained by customers purchasing in bulk during the holiday season.
 
+
 **By Product Mix**
+
+![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/78edbadb-19fe-4ac6-b993-a17b5825ecb1)
 
 - The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for 96% of total sales.
 - The Apple Airpods were consistently the most popular product every year with total orders of 48k (45% of total orders). Due to pricing differences however the 4k Gaming Monitor brought in the most revenue with nearly $10M in sales.
 - In contrast the Bose Soundport Headphones was the least popular product by a large margin with only 27 orders and $3.3k in sales.
-- 
+
+  
 **By Region**
   
 - Overall North America dominated in both total sales and orders with over a 50% share in each. On the contrary LATAM accounted for only 6% and 7% share of total sales and orders respectively.
@@ -49,6 +56,8 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Marketing Channel Performance
 
+![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/35f7a465-4b37-4c25-b229-a182097ad894)
+
 - The direct marketing channel brought in the most business with $23M in sales and and 84k orders while social media attracted lowest with $300k in sales and 1.3k in orders.
 - Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with 58% of purchases driven from that channel coming from loyalty members. 
 
@@ -56,6 +65,7 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 ### Operational Efficiencies
 
 **Time to Deliver:** The average overall time to deliver, as defined as the amount of time an order took from purchase to delivery, was 7.5 days. This was uniform across all regions.
+
 **Time to Ship:** The average time to ship, as defined as the amount of time an order took to ship from purchase, was relatively similiar across the product line with the Bose Headphones shipping out the fastest at 1.78 days and the Samsung Cable Pack the slowest at 2.07 days.
 
 
