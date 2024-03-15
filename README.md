@@ -24,24 +24,44 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 **By Product Mix**
 
-
+- The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for 96% of total sales.
+- The Apple Airpods were consistently the most popular product every year with total orders of 48k (45% of total orders). Due to pricing differences however the 4k Gaming Monitor brought in the most revenue with nearly $10M in sales.
+- In contrast the Bose Soundport Headphones was the least popular product by a large margin with only 27 orders and $3.3k in sales.
+- 
 **By Region**
+  
+- Overall North America dominated in both total sales and orders with over a 50% share in each. On the contrary LATAM accounted for only 6% and 7% share of total sales and orders respectively.
 
+**Product Performance by Region**
 
-### Loyalty Program
-
+- Apple Airpods were the most popular product sold within each region with an average of 12k units sold per year. Amongst all regions North America bought the most Airpods with 25k units sold followed by EMEA (15k), APAC (5.6k) and LATAM (2.6k).
 
 
 ### Refund Rates
 
+- Overall $2.2M or 8% of total sales was refunded. The Thinkpad Laptop and Macbook Air Laptop had the highest refund rates at 12% and 11% respectively. The Apple Airpods and 27in 4k Gaming Monitor had the largest number of refunds however with 2,636 and 1,444 returns respectively.
 
-### Operational Efficiencies
 
+### Loyalty Program
 
+- The loyalty program has seen an increase in partcipation over the years. The proportion of loyalty to non-loyalty members went from 12%/88% to 53%/47% from 2019 to 2022.
+- In 2022 loyalty members spent an average $30 more per order than non-loyalty where in 2019 non-loyalty spent $26 more per order than loyalty.
 
 ### Marketing Channel Performance
 
+- The direct marketing channel brought in the most business with $23M in sales and and 84k orders while social media attracted lowest with $300k in sales and 1.3k in orders.
+- Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with 58% of purchases driven from that channel coming from loyalty members. 
 
 
+### Operational Efficiencies
+
+**Time to Deliver:** The average overall time to deliver, as defined as the amount of time an order took from purchase to delivery, was 7.5 days. This was uniform across all regions.
+**Time to Ship:** The average time to ship, as defined as the amount of time an order took to ship from purchase, was relatively similiar across the product line with the Bose Headphones shipping out the fastest at 1.78 days and the Samsung Cable Pack the slowest at 2.07 days.
+
+
+## Recommendations
+
+- Maybe consider dropping product line if inventory costs provide a low or negative profit margin
+- The average time to deliver was the same for both loyalty and non-loyalty members possibly indicating potential for improvement for the company.
 
 
