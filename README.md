@@ -1,6 +1,6 @@
 # ZenPulse-Ecommerce-Analysis
 
-ZenPulse, established in 2019, is an electronics E-commerce retailer known for selling top quality consumer electronics at exceptionally low prices. I performed an exploratory analysis of their under-utilized core sales data to investigate yearly sales trends, product mix, loyalty program efficacy, marketing channel performance, and operational efficiencies for presentation to cross-functional teams.
+ZenPulse, established in 2019, is an electronics E-commerce retailer known for selling top quality consumer electronics at exceptionally low prices. I performed an exploratory analysis of their under-utilized core sales data to investigate yearly sales trends, product mix, loyalty program efficacy, marketing channel performance, and operational efficiencies for presentation to cross-functional teams. Support for all analyses can be found here: [Excel Workbook]() | [SQL Queries]()
 
 ## Dataset Contents and Structure
 
@@ -8,13 +8,13 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 
 ![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/db27f1eb-4e48-4e04-bb76-28519240f1f4)
 
-
-
 ## Summary of Key Insights and Findings
 
 ### Sales Performance Overview
 
+
 **By Time Period**
+
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/86f1c938-2f4c-45aa-9743-e83a1e287be8)
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/f9847f90-b401-4c3f-970b-1afb5f82e570)
 
@@ -27,7 +27,9 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 
 **By Product Mix**
 
-![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/78edbadb-19fe-4ac6-b993-a17b5825ecb1)
+![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/2e309f4b-b0d1-4ed2-b138-226bf87ca37f)
+
+
 
 - The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for 96% of total sales.
 - The Apple Airpods were consistently the most popular product every year with total orders of 48k (45% of total orders). Due to pricing differences however the 4k Gaming Monitor brought in the most revenue with nearly $10M in sales.
@@ -35,7 +37,7 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 
   
 **By Region**
-  
+
 - Overall North America dominated in both total sales and orders with over a 50% share in each. On the contrary LATAM accounted for only 6% and 7% share of total sales and orders respectively.
 
 **Product Performance by Region**
