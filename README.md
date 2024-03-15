@@ -15,46 +15,33 @@ Employing Excel, the data cleaning process meticulously scrutinized all records.
 
 ### Sales Performance Overview
 
-
 **By Time Period**
-![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/3ba6da25-616d-4d90-8792-b16b3fa803f1) 
 
-![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/46a0dea5-2de8-4f7c-8176-480580ab29f1)
+- Between 2019 and 2022 total sales were $28M which consister of 108k orders and an average order value of $260 per order.
+- 2020 saw a 163% jump in sales and doubling in total orders compared to prior year. In particular Q2 of that year saw a 53% spike in sales and 50% increase in total orders from Q1 which can likely be attributed to increased spending during lockdowns from the pandemic.
+- The largest dropoff in sales YoY came in 2022 where the company saw a $4.2M decrease (-46%) in total sales.
+- Across all 4 years the average order value increased in Q3 and Q4 which can be explained by customers purchasing in bulk during the holiday season.
 
 **By Product Mix**
-![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/4a9b73dd-e133-4dfb-8f08-e132fed002ae)
 
-
-- The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for 97% of total sales.
-- Apple products accounted for 50% of total sales.
 
 **By Region**
-![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/086f830e-2711-4377-9bdb-bac426affec0)
-
-**Product Performance by Region:** Apple Airpods were the most popular product sold within each region. Amongst all regions North America sold the most Airpods over the 4 year timespan with nearly 19k units. EMEA was next in line with over 11k sold.
 
 
 ### Loyalty Program
 
-The average time to deliver was the same for both loyalty and non-loyalty members possibly indicating potential for improvement for the company.
+
 
 ### Refund Rates
 
-While the ThinkPad Laptop has the highest refund rate with a nearly 12% rate of return, the product that was refunded the most was the Apple Airpods being returned over 2600 times. The Macbook Air was a close second in refund rate at 11.5% and Gaming Monitor second in total refunds at ~1450 returns.
 
 ### Operational Efficiencies
 
-**Time to Deliver:** The average overall time to deliver, as defined as the amount of time an order took from purchase to delivery, was 7.5 days. This was uniform across all regions.
 
-**Time to Ship:** The average time to ship, as defined as the amount of time an order took to ship from purchase, was relatively similiar across the product line with the Bose Headphones shipping out the fastest at 1.78 days and the Samsung Cable Pack at 2.07 days.
 
 ### Marketing Channel Performance
 
-Amongst all marketing channels ones listed with Unknown had the highest loyalty signup rate with 78% of those customers opting in. Email came in tied for second with a 59% rate while records with blanks under marketing channel also at 59%. However it's important to note that the marketing channel with the highest overall number of loyalty program signups was Direct with over 23k participants which accounts for ~70% of all participants across the board.
 
-### Purchasing Platform
-
-(mike - sql)
 
 
 
