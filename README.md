@@ -8,12 +8,11 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 
 ![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/db27f1eb-4e48-4e04-bb76-28519240f1f4)
 
-## Summary of Key Insights and Findings
 
-### Sales Performance Overview
+## Sales Performance Overview
 
 
-**By Time Period**
+### By Time Period
 
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/86f1c938-2f4c-45aa-9743-e83a1e287be8)
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/f9847f90-b401-4c3f-970b-1afb5f82e570)
@@ -25,7 +24,7 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 - Across all 4 years the average order value increased in Q3 and Q4 which can be explained by customers purchasing in bulk during the holiday season.
 
 
-**By Product Mix**
+### By Product Mix
 
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/2e309f4b-b0d1-4ed2-b138-226bf87ca37f)
 
@@ -36,26 +35,26 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 - In contrast the Bose Soundport Headphones was the least popular product by a large margin with only 27 orders and $3.3k in sales.
 
   
-**By Region**
+### By Region
 
 - Overall North America dominated in both total sales and orders with over a 50% share in each. On the contrary LATAM accounted for only 6% and 7% share of total sales and orders respectively.
 
-**Product Performance by Region**
+### Product Performance by Region
 
 - Apple Airpods were the most popular product sold within each region with an average of 12k units sold per year. Amongst all regions North America bought the most Airpods with 25k units sold followed by EMEA (15k), APAC (5.6k) and LATAM (2.6k).
 
 
-### Refund Rates
+## Refund Rates
 
-- Overall $2.2M or 8% of total sales was refunded. The Thinkpad Laptop and Macbook Air Laptop had the highest refund rates at 12% and 11% respectively. The Apple Airpods and 27in 4k Gaming Monitor had the largest number of refunds however with 2,636 and 1,444 returns respectively.
+Overall $2.2M or 8% of total sales was refunded. The Thinkpad Laptop and Macbook Air Laptop had the highest refund rates at 12% and 11% respectively. The Apple Airpods and 27in 4k Gaming Monitor had the largest number of refunds however with 2,636 and 1,444 returns respectively.
 
 
-### Loyalty Program
+## Loyalty Program
 
 - The loyalty program has seen an increase in partcipation over the years. The proportion of loyalty to non-loyalty members went from 12%/88% to 53%/47% from 2019 to 2022.
 - In 2022 loyalty members spent an average $30 more per order than non-loyalty where in 2019 non-loyalty spent $26 more per order than loyalty.
 
-### Marketing Channel Performance
+## Marketing Channel Performance
 
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/35f7a465-4b37-4c25-b229-a182097ad894)
 
@@ -63,7 +62,7 @@ ZenPulse's dataset consists of over 108k records over a 4 year period between 20
 - Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with 58% of purchases driven from that channel coming from loyalty members. 
 
 
-### Operational Efficiencies
+## Operational Efficiencies
 
 **Time to Deliver:** The average overall time to deliver, as defined as the amount of time an order took from purchase to delivery, was 7.5 days. This was uniform across all regions.
 
