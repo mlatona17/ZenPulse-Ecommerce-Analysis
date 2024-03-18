@@ -58,7 +58,7 @@ Overall $2.2M or 8% of total sales was refunded. The Thinkpad Laptop and Macbook
 
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/35f7a465-4b37-4c25-b229-a182097ad894)
 
-- The direct marketing channel brought in the most business with $23M in sales and and 84k orders while social media attracted lowest with $300k in sales and 1.3k in orders.
+- The direct marketing channel brought in the most business with $23M (78%) in sales and and 84k orders while social media attracted lowest with $300k in sales and 1.3k in orders.
 - Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with 58% of purchases driven from that channel coming from loyalty members. 
 
 
