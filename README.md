@@ -1,6 +1,6 @@
 # ZenPulse-Ecommerce-Analysis
 
-ZenPulse, established in 2019, is an electronics E-commerce retailer known for selling top quality consumer electronics at exceptionally low prices. I performed an exploratory analysis of their under-utilized core sales data to investigate yearly sales trends, product mix, loyalty program efficacy, marketing channel performance, and operational efficiencies for presentation to cross-functional teams. Support for all analyses can be found here: [Excel Workbook]() | [SQL Queries]([https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/tree/main/sql_analysis](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/blob/main/sql_analysis/sql_queries.sql))
+ZenPulse, established in 2019, is an electronics E-commerce retailer known for selling top quality consumer electronics at exceptionally low prices. I performed an exploratory analysis of their under-utilized core sales data to investigate yearly sales trends, product mix, loyalty program efficacy, marketing channel performance, and operational efficiencies for presentation to cross-functional teams. Support for all analyses can be found here: [Excel Workbook]() | [SQL Queries](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/blob/main/sql_analysis/sql_queries.sql)
 
 ## Dataset Contents and Structure
 
