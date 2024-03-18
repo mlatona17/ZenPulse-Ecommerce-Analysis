@@ -72,9 +72,15 @@ Interestingly, loyalty members experience the same delivery time as non-members 
 
 ## Recommendations
 Based on the comprehensive analysis conducted, the following recommendations are proposed for consideration by the appropriate cross-functional teams:
-- Sales and Marketing
-  - Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
-- Maybe consider dropping product line if inventory costs provide a low or negative profit margin
+
+### Sales and Marketing
+- Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
+
+### Inventory and Operations
+- Work with the products team to investigate the poor performance of the Bose Soundsport Headphones and consider phasing product out completely assuming an negative profit margin.
+
+
+
 - The average time to deliver was the same for both loyalty and non-loyalty members possibly indicating potential for improvement for the company.
 
 
