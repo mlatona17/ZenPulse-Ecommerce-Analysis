@@ -77,7 +77,7 @@ Based on the comprehensive analysis conducted, the following recommendations are
 - Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
 
 ### Inventory and Operations
-- Work with the products team to investigate the poor performance of the Bose Soundsport Headphones and consider phasing product out completely assuming an negative profit margin.
+- Work with the products team to investigate the poor performance of the Bose Soundsport Headphones and consider phasing product out completely assuming an negative profit margin when factoring in variable and fixed costs associated.
 
 
 
