@@ -59,7 +59,7 @@ Overall $2.2M or 8% of total sales was refunded. The Thinkpad Laptop and Macbook
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/35f7a465-4b37-4c25-b229-a182097ad894)
 
 - The direct marketing channel brought in the most business with $23M (78%) in sales and and 84k orders while social media attracted lowest with $300k in sales and 1.3k in orders.
-- Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with 58% of purchases driven from that channel coming from loyalty members. 
+- Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with 58% of purchases driven from that channel coming from members. 
 
 
 ## Operational Efficiencies
@@ -68,6 +68,7 @@ Overall $2.2M or 8% of total sales was refunded. The Thinkpad Laptop and Macbook
 
 **Time to Ship:** The average time to ship, as defined as the amount of time an order took to ship from purchase, was relatively similiar across the product line with the Bose Headphones shipping out the fastest at 1.78 days and the Samsung Cable Pack the slowest at 2.07 days.
 
+Interestingly, loyalty members experience the same delivery time as non-members (7.5 days), suggesting a potential area for improvement in delivery standards for higher value customers.
 
 ## Recommendations
 
