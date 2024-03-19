@@ -74,13 +74,12 @@ Interestingly, loyalty members experience the same delivery time as non-members 
 Based on the comprehensive analysis conducted, the following recommendations are proposed for consideration by the appropriate cross-functional teams:
 
 ### Sales and Marketing
+- Probe into the reasons, outside of the easing of stay-at-home orders, behind the large YoY dropoff in sales from 2021 to 2022.
 - Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
-
-### Inventory and Operations
-- Work with the products team to investigate the poor performance of the Bose Soundsport Headphones and consider phasing product out completely assuming an negative profit margin when factoring in variable and fixed costs associated.
-
-
-
-- The average time to deliver was the same for both loyalty and non-loyalty members possibly indicating potential for improvement for the company.
-
+- Work with operations team to emphasize quicker delivery times for loyalty members as they continue to display signs as high value customers over the years.
+- Consider increasing marketing spend on the use of the direct marketing channel and possibly decreasing or even discontinuing lower performing channels like affiliate (<4% of sales) and social media (<2% of sales).
+ 
+### Products and Inventory
+- Investigate the poor performance of the Bose Soundsport Headphones and consider phasing product out completely assuming an negative profit margin when factoring in associated variable and fixed costs.
+- Explore the high refund rates of the ThinkPad Laptop and Macbook Air Laptop and understand why over 10% of orders lead to unsatifactory consumers.
 
