@@ -37,11 +37,11 @@ ZenPulse's dataset consists of over **108k records** over a 4 year period betwee
   
 ### By Region
 
-- Overall North America dominated in both total sales and orders with over a **50% share** in each. On the contrary LATAM accounted for only **6% and 7%** share of total sales and orders respectively.
+Overall North America dominated in both total sales and orders with over a **50% share** in each. On the contrary LATAM accounted for only **6% and 7%** share of total sales and orders respectively.
 
 ### Product Performance by Region
 
-- Apple Airpods were the most popular product sold within each region with an average of **12k units** sold per year. Amongst all regions North America bought the most Airpods with **25k units** sold followed by EMEA **(15k)**, APAC **(5.6k)** and LATAM **(2.6k)**.
+Apple Airpods were the most popular product sold within each region with an average of **12k units** sold per year. Amongst all regions North America bought the most Airpods with **25k units** sold followed by EMEA **(15k)**, APAC **(5.6k)** and LATAM **(2.6k)**.
 
 
 ## Refund Rates
