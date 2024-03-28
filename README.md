@@ -6,7 +6,8 @@ ZenPulse, established in 2019, is an electronics E-commerce retailer known for s
 
 ZenPulse's dataset consists of over **108k records** over a 4 year period between 2019-2022 comprising of four tables as displayed below: orders, customers, geo_lookup, and order_status. In preparation for analysis, a rigorous assessment of data quality was undertaken to ascertain and address potential issues. Documentations of these steps can be found [here](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/blob/main/cleaning_log.md).
 
-![image](https://github.com/mlatona17/Electronic-Express-eCommerce-Analysis/assets/67985288/db27f1eb-4e48-4e04-bb76-28519240f1f4)
+![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/9100ed45-091c-4e02-b115-e9dab133274d)
+
 
 
 ## Sales Performance Overview
