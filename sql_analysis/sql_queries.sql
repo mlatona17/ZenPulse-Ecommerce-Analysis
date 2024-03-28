@@ -1,4 +1,4 @@
-### Queries used during exploratory enalysis ###
+/// Exploratory Analysis ///
 
   
 # The most popular products by region
@@ -52,9 +52,9 @@ left join customers_2022
 
 
 # Within each purchase platform, top two marketing channels ranked by AOV
----
----
----
+-- Join orders and customers tables to match customer_id with id in order to pull purchase_platform and marketing_channel
+-- Use a CTE to for purpose of partitioning and ranking each marketing channel by aov within each purchase platform 
+-- Use qualify and row()_number window functions to filter results to only display top 2 marketing channels within each purchase platform
 
 with marketing_sales as (
   select purchase_platform, 
@@ -71,8 +71,9 @@ from marketing_sales
 qualify row_number() over (partition by purchase_platform order by aov desc) <= 2
 order by 1;
 
+
   
-### Queries used in final analysis ###
+/// Queries used in final write-up ///
 
   
 # Refund rates by product
