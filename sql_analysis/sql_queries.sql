@@ -22,10 +22,12 @@ qualify row_number() over (partition by purchase_platform order by aov desc) <= 
 order by 1;
 
   
-# Retention rates from 2021 to 2022
---
---
---
+# Retention rate from 2021 to 2022
+-- Use distinct on customer_id to only pull unique customers even if they purchased multiple times in a year
+-- Extract year from purchase_ts using extract function
+-- Use multiple CTEs to split unique customers between 2021 and 2022
+-- Use third query and case function to create helper column in a yes or no format
+-- Join both CTEs to figure out which unique customers purchased in both years
 
 with customers_2021 as (
   select distinct customer_id as id_2021
