@@ -82,7 +82,7 @@ Based on the comprehensive analysis conducted, the following recommendations are
 - Work with operations team to emphasize quicker delivery times for loyalty members as they continue to display signs as high value customers over the years.
 - Consider increasing marketing spend on the use of the direct marketing channel and possibly decreasing or even discontinuing lower performing channels like affiliate (<4% of sales) and social media (<2% of sales).
  
-### Products and Inventory
+### Product and Inventory
 - Investigate the poor performance of the Bose Soundsport Headphones and consider phasing product out completely assuming a negative profit margin when factoring in associated variable and fixed costs.
 - Explore the high refund rates of the ThinkPad Laptop and Macbook Air Laptop and understand why 8% of total orders lead to unsatifactory consumers.
 
