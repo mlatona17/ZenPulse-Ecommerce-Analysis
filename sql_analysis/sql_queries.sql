@@ -1,3 +1,6 @@
+### Queries used during exploratory enalysis ###
+
+  
 # The most popular products by region
 -- Join orders, customers, and geo_lookup tables to match regions and orders.
 -- Use a CTE to add total number of orders and total price sold per region.
@@ -26,6 +29,52 @@ from ranked_orders
 where order_ranking = 1;
 
 
+# Retention rates from 2021 to 2022
+--
+--
+--
+
+with customers_2021 as (
+  select distinct customer_id as id_2021
+  from core.orders
+  where extract(year from purchase_ts) = 2021),
+
+customers_2022 as (
+  select distinct customer_id as id_2022
+  from core.orders
+  where extract(year from purchase_ts) = 2022
+)
+
+select round(avg(case when id_2022 is not null then 1 else 0 end)*100,4) as retention_rate
+from customers_2021
+left join customers_2022 
+  on customers_2021.id_2021 = customers_2022.id_2022
+
+
+# Within each purchase platform, top two marketing channels ranked by AOV
+---
+---
+---
+
+with marketing_sales as (
+  select purchase_platform, 
+    marketing_channel, 
+    round(avg(usd_price),2) as aov
+from core.orders
+left join core.customers
+  on orders.customer_id = customers.id
+group by 1,2)
+
+select *, 
+  row_number() over (partition by purchase_platform order by aov desc) as ranking
+from marketing_sales
+qualify row_number() over (partition by purchase_platform order by aov desc) <= 2
+order by 1;
+
+  
+### Queries used in final analysis ###
+
+  
 # Refund rates by product
 -- Join orders and order_status tables to match products with refund status.
 -- Consolidate and validate product names using CASE.
