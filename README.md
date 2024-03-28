@@ -31,8 +31,8 @@ ZenPulse's dataset consists of over **108k records** over a 4 year period betwee
 
 
 
-- The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for **96% of total sales**.
-- The Apple Airpods were consistently the most popular product every year with total orders of **48k (45% of total orders)**. Due to pricing differences however the 4k Gaming Monitor brought in the most revenue with nearly **$10M in sales**.
+- The 4k gaming monitor, Apple Airpods, Macbook Laptop, and Thinkpad Laptop account for **96% of total sales** across all 4 years. The Macbook Laptop saw the biggest YoY increase in sales with a **383%** spike in sales from 2019 to 2020.
+- The Apple Airpods were consistently the most popular product every year with total orders of **48k (45% of total orders)**. Due to pricing differences however the 4k Gaming Monitor brought in the most revenue with nearly **$10M in sales (35%)**. 
 - In contrast the Bose Soundport Headphones was the least popular product by a large margin with only **27 orders** and **$3.3k in sales**.
 
   
@@ -47,7 +47,8 @@ Apple Airpods were the most popular product sold within each region with an aver
 
 ## Refund Rates
 
-Overall **$2.2M or 8%** of total sales was refunded. The Thinkpad Laptop and Macbook Air Laptop had the highest refund rates at **12%** and **11%** respectively. The Apple Airpods and 27in 4k Gaming Monitor had the largest number of refunds however with **2,636** and **1,444** returns respectively.
+- Overall **$2.2M or 8%** of total sales was refunded. The Thinkpad Laptop and Macbook Air Laptop had the highest refund rates at **12%** and **11%** respectively. The Apple Airpods and 27in 4k Gaming Monitor had the largest number of refunds however with **2,636** and **1,444** returns respectively.
+- Refund rates grew **150%** from 2019 to 2020 but then slowly decreased in the next two years. Surprisingly, 2022 saw **zero refunds** despite the fact that that year had nearly 20% of the dataset's total orders.
 
 
 ## Loyalty Program
@@ -60,6 +61,7 @@ Overall **$2.2M or 8%** of total sales was refunded. The Thinkpad Laptop and Mac
 ![image](https://github.com/mlatona17/ZenPulse-Ecommerce-Analysis/assets/67985288/35f7a465-4b37-4c25-b229-a182097ad894)
 
 - The direct marketing channel brought in the most business with **$23M (78%)** in sales and and **84k** orders while social media attracted lowest with **$300k** in sales and **1.3k** in orders.
+- The email marketing channel saw the largest YoY increase in orders where it saw **200%** surge in 2020. This could be attributed to the pandemic and the increased interest in digital marketing methods.
 - Amongst each marketing channel loyalty members favored email marketing the most over non-loyalty with **58%** of purchases driven from that channel coming from members. 
 
 
